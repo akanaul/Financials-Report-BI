@@ -1,4 +1,4 @@
-#Financial reports
+# Financial reports
 
 Analysis included:
 * Sales report based on products by segments
